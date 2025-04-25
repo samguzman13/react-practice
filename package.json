@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://samguzman13.github.io/react-practice/",
+  "homepage": "https://samguzman13.github.io/react-practice",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
